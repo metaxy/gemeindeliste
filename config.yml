@@ -1,0 +1,5 @@
+---
+:targets:
+    -  :alias: full
+       :output: full.pdf
+    
